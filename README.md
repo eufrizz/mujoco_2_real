@@ -4,3 +4,4 @@ This notebook is designed to get you up and running with some first movements on
 
 ![spin_video](https://github.com/user-attachments/assets/37b3b5f9-49dd-479c-b34a-0e266140c42b)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eufrizz/mujoco_2_real/blob/main/sim_2_real_robot_arm_demo.ipynb)
